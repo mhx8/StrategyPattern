@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.Factory", "StrategyPattern.Factory\StrategyPattern.Factory.csproj", "{8806D7D0-0F2D-4782-932E-1ADD1A1FCF33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalLib", "ExternalLib\ExternalLib.csproj", "{21052DAE-AFED-4838-A74F-C74F49B4B915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.CanHandle", "StrategyPattern.CanHandle\StrategyPattern.CanHandle.csproj", "{09E25211-016E-48EA-BB02-3DA44498C781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8806D7D0-0F2D-4782-932E-1ADD1A1FCF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8806D7D0-0F2D-4782-932E-1ADD1A1FCF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8806D7D0-0F2D-4782-932E-1ADD1A1FCF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8806D7D0-0F2D-4782-932E-1ADD1A1FCF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21052DAE-AFED-4838-A74F-C74F49B4B915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21052DAE-AFED-4838-A74F-C74F49B4B915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21052DAE-AFED-4838-A74F-C74F49B4B915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21052DAE-AFED-4838-A74F-C74F49B4B915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E25211-016E-48EA-BB02-3DA44498C781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E25211-016E-48EA-BB02-3DA44498C781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E25211-016E-48EA-BB02-3DA44498C781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E25211-016E-48EA-BB02-3DA44498C781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
